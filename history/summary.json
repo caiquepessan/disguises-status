@@ -4,18 +4,20 @@
     "url": "https://disguis.es/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/disguis.es.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1055,
-    "timeDay": 1728,
-    "timeWeek": 1055,
-    "timeMonth": 1055,
-    "timeYear": 1055,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "95.82%",
+    "uptimeDay": "91.72%",
+    "uptimeWeek": "95.82%",
+    "uptimeMonth": "95.82%",
+    "uptimeYear": "95.82%",
+    "time": 896,
+    "timeDay": 1239,
+    "timeWeek": 896,
+    "timeMonth": 896,
+    "timeYear": 896,
+    "dailyMinutesDown": {
+      "2026-08-19": 119
+    }
   },
   {
     "name": "Obfuscation API",

@@ -1,7 +1,7 @@
 url: https://disguis.es/api/health
-status: up
-code: 200
-responseTime: 247
-lastUpdated: 2026-08-18T23:24:20.878Z
+status: down
+code: 503
+responseTime: 3208
+lastUpdated: 2026-08-19T10:54:11.088Z
 startTime: 2026-08-17T13:21:39.462Z
 generator: Upptime <https://github.com/upptime/upptime>

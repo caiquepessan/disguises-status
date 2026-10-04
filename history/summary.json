@@ -4,19 +4,20 @@
     "url": "https://disguis.es/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/disguis.es.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 376,
-    "timeDay": 140,
-    "timeWeek": 269,
-    "timeMonth": 316,
-    "timeYear": 376,
+    "time": 370,
+    "timeDay": 91,
+    "timeWeek": 241,
+    "timeMonth": 307,
+    "timeYear": 370,
     "dailyMinutesDown": {
-      "2026-08-19": 119
+      "2026-08-19": 119,
+      "2026-10-04": 0
     }
   },
   {
@@ -42,17 +43,19 @@
     "url": "https://disguises-bot.shardweb.app/",
     "icon": "https://icons.duckduckgo.com/ip3/disguises-bot.shardweb.app.ico",
     "slug": "discord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 83,
-    "timeWeek": 179,
-    "timeMonth": 171,
-    "timeYear": 170,
-    "dailyMinutesDown": {}
+    "time": 167,
+    "timeDay": 57,
+    "timeWeek": 160,
+    "timeMonth": 166,
+    "timeYear": 167,
+    "dailyMinutesDown": {
+      "2026-10-04": 0
+    }
   }
 ]

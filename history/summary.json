@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/disguis.es.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
-    "time": 381,
-    "timeDay": 345,
-    "timeWeek": 423,
-    "timeMonth": 317,
-    "timeYear": 381,
+    "uptimeYear": "99.83%",
+    "time": 376,
+    "timeDay": 140,
+    "timeWeek": 269,
+    "timeMonth": 316,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2026-08-19": 119
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 102,
-    "timeWeek": 226,
-    "timeMonth": 180,
-    "timeYear": 181,
+    "time": 179,
+    "timeDay": 84,
+    "timeWeek": 148,
+    "timeMonth": 178,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 172,
-    "timeDay": 149,
-    "timeWeek": 201,
+    "time": 170,
+    "timeDay": 83,
+    "timeWeek": 179,
     "timeMonth": 171,
-    "timeYear": 172,
+    "timeYear": 170,
     "dailyMinutesDown": {}
   }
 ]

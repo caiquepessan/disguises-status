@@ -5,19 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/disguis.es.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
-    "time": 370,
-    "timeDay": 91,
-    "timeWeek": 241,
-    "timeMonth": 307,
-    "timeYear": 370,
+    "uptime": "98.01%",
+    "uptimeDay": "11.81%",
+    "uptimeWeek": "87.40%",
+    "uptimeMonth": "97.10%",
+    "uptimeYear": "98.01%",
+    "time": 364,
+    "timeDay": 53,
+    "timeWeek": 201,
+    "timeMonth": 305,
+    "timeYear": 364,
     "dailyMinutesDown": {
       "2026-08-19": 119,
-      "2026-10-04": 0
+      "2026-10-05": 216,
+      "2026-10-04": 1054
     }
   },
   {
@@ -31,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 84,
-    "timeWeek": 148,
-    "timeMonth": 178,
-    "timeYear": 179,
+    "time": 178,
+    "timeDay": 145,
+    "timeWeek": 134,
+    "timeMonth": 179,
+    "timeYear": 178,
     "dailyMinutesDown": {}
   },
   {
@@ -44,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/disguises-bot.shardweb.app.ico",
     "slug": "discord-bot",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 57,
-    "timeWeek": 160,
-    "timeMonth": 166,
-    "timeYear": 167,
+    "uptime": "98.19%",
+    "uptimeDay": "11.83%",
+    "uptimeWeek": "87.40%",
+    "uptimeMonth": "97.10%",
+    "uptimeYear": "98.19%",
+    "time": 165,
+    "timeDay": 30,
+    "timeWeek": 129,
+    "timeMonth": 164,
+    "timeYear": 165,
     "dailyMinutesDown": {
-      "2026-10-04": 0
+      "2026-10-05": 216,
+      "2026-10-04": 1053
     }
   }
 ]

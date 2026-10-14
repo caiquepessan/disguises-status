@@ -5,20 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/disguis.es.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "97.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.08%",
-    "uptimeYear": "97.26%",
+    "uptime": "97.15%",
+    "uptimeDay": "93.88%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "94.88%",
+    "uptimeYear": "97.15%",
     "time": 378,
     "timeDay": 833,
-    "timeWeek": 507,
+    "timeWeek": 532,
     "timeMonth": 346,
     "timeYear": 378,
     "dailyMinutesDown": {
       "2026-08-19": 119,
       "2026-10-05": 1100,
-      "2026-10-04": 1054
+      "2026-10-04": 1054,
+      "2026-10-14": 88
     }
   },
   {
@@ -34,7 +35,7 @@
     "uptimeYear": "100.00%",
     "time": 250,
     "timeDay": 2075,
-    "timeWeek": 722,
+    "timeWeek": 795,
     "timeMonth": 325,
     "timeYear": 250,
     "dailyMinutesDown": {}
@@ -52,7 +53,7 @@
     "uptimeYear": "97.40%",
     "time": 181,
     "timeDay": 443,
-    "timeWeek": 297,
+    "timeWeek": 310,
     "timeMonth": 195,
     "timeYear": 181,
     "dailyMinutesDown": {
